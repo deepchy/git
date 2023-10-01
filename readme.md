@@ -4,4 +4,6 @@ this is git pratice
 6
 2
 
-i
+5
+6
+t jjjdj just add line
